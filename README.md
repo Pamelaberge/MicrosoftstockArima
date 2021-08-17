@@ -1,2 +1,3 @@
-# MicrosoftstockArima
-A time series project using an ARIMA model to predict Microsoft stocks
+# Microsoft Time Series Analysis
+
+Forecasting Microsoft stock prices using an Arima model in R
